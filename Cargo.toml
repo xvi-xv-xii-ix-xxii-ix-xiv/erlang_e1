@@ -1,0 +1,16 @@
+[package]
+name = "erlang_e1"
+edition = "2021"
+version = "0.9.0-rc.1"
+authors = ["xvi.xv.xii.ix.xxii.ix.xiv <xvi.xv.xii.ix.xxii.ix.xiv@gmail.com>"]
+description = "Erlang E1 Channels Calculation Library"
+repository = "https://github.com/xvi-xv-xii-ix-xxii-ix-xiv/erlang_e1"
+license = "MIT"
+homepage = "https://github.com/xvi-xv-xii-ix-xxii-ix-xiv/erlang_e1"
+documentation = "https://docs.rs/erlang_e1/0.9.0-rc.1"
+readme = "README.md"
+keywords = ["erlang", "e1", "erlangb"]
+categories = ["Network programming"]
+
+
+[dependencies]
