@@ -8,15 +8,6 @@ This Rust library provides functionality to calculate the number of E1 voice cha
 - **E1 Channel Calculation**: Compute the number of E1 voice channels required to meet a desired blocking probability.
 - **Helper Functions**: Convert high-level user inputs such as the number of users, average call duration, and concurrent calls into Erlangs and perform the channel calculation.
 
-## Installation
-
-To use this library, add the following to your `Cargo.toml` file:
-
-```toml
-[dependencies]
-erlang_e1  # Replace with the actual path if using locally
-```
-
 Then import the library into your project:
 
 ```rust
